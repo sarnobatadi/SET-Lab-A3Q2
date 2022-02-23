@@ -1,1 +1,2 @@
 This is ABC.txt file 
+New Text for conflicts
