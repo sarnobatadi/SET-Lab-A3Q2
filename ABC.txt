@@ -1,1 +1,2 @@
-This is ABC.txt file 
+This is ABC.txt file
+Updating this file to create conflicts 
